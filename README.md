@@ -1,16 +1,29 @@
-## Hi there 👋
+# <a href="https://www.linkedin.com/in/angelo-parker-18811a246/">Angelo Parker</a>'s IT and Cybersecurity Project Portfolio 🔐
+
+I'm passionate about cybersecurity and thrive on tackling complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, these projects give me the opportunity to explore the ever-evolving cybersecurity landscape. Feel free to check them out and see how I've worked to enhance security operations and processes!
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="Angelo's Twitter| Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Angelo's LinkedIn| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Angelo's Instagram| Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/parkerang03
+[instagram]: https://www.instagram.com/angeloparker03
+[linkedin]: https://linkedin.com/in/angelo-parker-18811a246
 
 <!--
-**parkerang03/parkerang03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
 -->
