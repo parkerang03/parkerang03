@@ -6,6 +6,7 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 
 - **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
 - **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+- **[Vulnerability Management with Tenable](https://github.com/parkerang03/Windows10-Vuln-Mgmt)**
 
 ## 🚨 Threat Hunting and Security Operations
 
