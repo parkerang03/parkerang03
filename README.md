@@ -5,6 +5,7 @@ I'm passionate about cybersecurity and thrive on tackling complex challenges thr
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management with Tenable](https://github.com/parkerang03/Windows10-Vuln-Mgmt)**
+- **[Vulnerability Management Program Implementation](https://github.com/parkerang03/Vulnerability-Management-Program)**
 
 ## 🚨 Threat Hunting and Security Operations
 
